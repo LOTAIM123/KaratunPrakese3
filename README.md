@@ -6,7 +6,7 @@ Projekts ir izstrādāts prakses laikā, izmantojot HTML5, CSS3 un JavaScript.
 Projekta mērķis ir izveidot interaktīvu un responsīvu tīmekļa vietni – virtuālu izstādi par izvēlēto tēmu.
 
 **Izstādes tēma:** Videospēļu vēsture
-**Izstādes nosaukums:** Pikseļu laikmets
+**Izstādes nosaukums:** Spēļu pasaule cauri laikiem
 
 ## 2. Komandas dalībnieki
 
@@ -48,10 +48,5 @@ Izstrādātajā tīmekļa vietnē ir:
 
 ## 7. Projekta izstrādes ieguldījums
 
-- [Vārds, uzvārds]: [HTML struktūra, navigācija, About sadaļa, kājene.]
-- [Vārds, uzvārds]: [CSS dizains, Flexbox/Grid, responsīvais izkārtojums, attēlu galerija un JavaScript karuselis.]
-
-## Piezīme par attēliem
-
-Mapē `images/` pašlaik ir vienota stila SVG vietturi (`gallery1–8.svg`, `carousel1–5.svg`).
-Lai tos aizstātu ar īstām fotogrāfijām, ievietojiet savus attēlus mapē `images/` un atjauniniet `src` un `alt` atribūtus failā `index.html`.
+- Kārlis Karulis: [HTML struktūra, navigācija, About sadaļa, kājene.]
+- Martins Rihards Gūža: [CSS dizains, Flexbox/Grid, responsīvais izkārtojums, attēlu galerija un JavaScript karuselis.]
